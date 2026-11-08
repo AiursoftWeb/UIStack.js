@@ -1,6 +1,6 @@
 {
   "name": "@aiursoft/uistack",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Aiursoft Modified UI Stack. Source is not open. But dist is open.",
   "files": [
     "dist"
@@ -39,7 +39,7 @@
     "webpack-cli": "5.1.4"
   },
   "dependencies": {
-    "@aiursoft/utctime.js": "^1.0.8",
+    "@aiursoft/utctime.js": "^1.0.9",
     "@babel/polyfill": "7.12.1",
     "@eonasdan/tempus-dominus": "6.10.4",
     "@fontsource/poppins": "^5.3.0",
