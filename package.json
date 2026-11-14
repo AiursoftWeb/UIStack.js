@@ -1,6 +1,6 @@
 {
   "name": "@aiursoft/uistack",
-  "version": "2.0.17",
+  "version": "2.0.18",
   "description": "Aiursoft Modified UI Stack. Source is not open. But dist is open.",
   "files": [
     "dist"
@@ -77,6 +77,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.aiursoft.com/aiursoft/UIStack.js.git"
+    "url": "https://github.com/AiursoftWeb/UIStack.js.git"
   }
 }
