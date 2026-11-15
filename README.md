@@ -17,7 +17,7 @@ npm install @aiursoft/uistack
 <script src="./node_modules/@aiursoft/uistack/dist/js/app.js" defer></script>
 ```
 
-The npm package contains compiled `dist/` assets. ASP.NET Core components and the demo live in [UIStack](https://gitlab.aiursoft.com/aiursoft/uistack).
+The npm package contains compiled `dist/` assets. ASP.NET Core components and the demo live in [UIStack](https://github.com/AiursoftWeb/UIStack).
 
 UIStack 2.x no longer bundles Quill or exposes `window.Quill`. Applications that need a rich-text editor must provide one separately.
 
