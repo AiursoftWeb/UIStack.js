@@ -1,6 +1,6 @@
 {
   "name": "@aiursoft/uistack",
-  "version": "2.0.24",
+  "version": "2.0.25",
   "description": "Aiursoft Modified UI Stack. Source is not open. But dist is open.",
   "files": [
     "dist"
@@ -62,7 +62,7 @@
     "domurl": "2.3.4",
     "dragula": "3.7.3",
     "fullcalendar": "5.11.5",
-    "jquery": "3.7.1",
+    "jquery": "3.8.0",
     "jquery-mask-plugin": "1.14.16",
     "jquery-validation": "^1.22.1",
     "jquery-validation-unobtrusive": "^4.0.0",
